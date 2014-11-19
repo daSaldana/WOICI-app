@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">woici_test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_page_dos">PageDos</string>
+
+    <string-array name="lugares">
+        <item>Starbucks</item>
+        <item>Big boba </item>
+        <item>Wados</item>
+        <item>Mc donals</item>
+    </string-array>
+
+    <string name="title_activity_detalles">Detalles</string>
+
+</resources>
